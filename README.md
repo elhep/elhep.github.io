@@ -1,4 +1,4 @@
-# Sinara Website
+# Electronics for High Energy and Quantum Physics Website
 
 The source for https://elhep.github.io
 
